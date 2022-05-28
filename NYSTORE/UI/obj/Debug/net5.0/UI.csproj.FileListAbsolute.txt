@@ -1,0 +1,5 @@
+C:\Users\wintk\Desktop\NYSTORE\UI\obj\Debug\net5.0\UI.csproj.AssemblyReference.cache
+C:\Users\wintk\Desktop\NYSTORE\UI\obj\Debug\net5.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wintk\Desktop\NYSTORE\UI\obj\Debug\net5.0\UI.AssemblyInfoInputs.cache
+C:\Users\wintk\Desktop\NYSTORE\UI\obj\Debug\net5.0\UI.AssemblyInfo.cs
+C:\Users\wintk\Desktop\NYSTORE\UI\obj\Debug\net5.0\UI.csproj.CoreCompileInputs.cache
